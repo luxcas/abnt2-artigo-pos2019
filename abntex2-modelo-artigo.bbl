@@ -5,6 +5,13 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[AXELOS]{ITIL}
+\abntrefinfo{AXELOS}{AXELOS}{}
+{AXELOS. \emph{\textbf{What is ITIL? }}.
+Acessado em: 30/01/2020.
+Dispon{\'\i}vel em:
+  \url{https://www.axelos.com/best-practice-solutions/itil/what-is-itil}.}
+
 \bibitem[AXELOS 2019]{ITILLivroAXELOS}
 \abntrefinfo{AXELOS}{AXELOS}{2019}
 {AXELOS. \emph{\textbf{5.2 Service management practices)}}. Itil 4 edition.

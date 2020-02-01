@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.31)  1 FEB 2020 11:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.31)  1 FEB 2020 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1078,7 +1078,11 @@ iles/ECM_White%20Paper_kff_2006.pdf
 ]
 \openout2 = `conceitosBasicos.aux'.
 
- (./conceitosBasicos.tex [3
+ (./conceitosBasicos.tex
+
+Package hyperref Warning: Suppressing empty link on input line 29.
+
+[3
 
 
 ]) [4] (./cenarioatual.tex
@@ -1101,17 +1105,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
 Package rerunfilecheck Info: File `abntex2-modelo-artigo.brf' has not changed.
-(rerunfilecheck)             Checksum: C40825DB81DA7CDA2E62AE18643B6700;388.
+(rerunfilecheck)             Checksum: D99E3E44CF24BD83DF474E070C221E55;433.
 
 LaTeX Warning: There were undefined references.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
  ) 
 Here is how much of TeX's memory you used:
- 21610 strings out of 492616
- 371559 string characters out of 6129480
- 657716 words of memory out of 5000000
- 25246 multiletter control sequences out of 15000+600000
+ 21620 strings out of 492616
+ 371651 string characters out of 6129480
+ 658716 words of memory out of 5000000
+ 25255 multiletter control sequences out of 15000+600000
  576561 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,11n,71p,653b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1121,10 +1125,10 @@ texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/20
 dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/
 type1/public/lm/lmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public
 /lm/lmss12.pfb>
-Output written on abntex2-modelo-artigo.pdf (5 pages, 133815 bytes).
+Output written on abntex2-modelo-artigo.pdf (5 pages, 134591 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 139 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
+ 163 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
  133 words of extra memory for PDF output out of 10000 (max. 10000000)
 
