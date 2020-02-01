@@ -1,0 +1,51 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[AXELOS 2019]{ITILLivroAXELOS}
+\abntrefinfo{AXELOS}{AXELOS}{2019}
+{AXELOS. \emph{\textbf{5.2 Service management practices)}}. Itil 4 edition.
+  São Paulo: ITIL Foundation, 2019.}
+
+\bibitem[Fondation 2020]{PloneCMS}
+\abntrefinfo{Fondation}{FONDATION}{2020}
+{FONDATION, P. \emph{\textbf{What Is Plone}}. 2020.
+Acessado em: 30/01/2020.
+Dispon{\'\i}vel em: \url{https://docs.plone.org/intro/}.}
+
+\bibitem[MAGALHÃES Ivan L.;~PINHEIRO 2007]{ITILLivro}
+\abntrefinfo{MAGALHÃES Ivan L.;~PINHEIRO}{MAGALHÃES IVAN L.;~PINHEIRO}{2007}
+{MAGALHÃES IVAN L.;~PINHEIRO, W.~B. \emph{\textbf{Um Guia do Conhecimento em
+  Gerenciamento de Projetos (Guia PMBOK)}}. 1. ed. São Paulo: Gerenciamento de
+  Serviços de TI na Prática: Uma abordagem com base na ITIL. 1a Ed., 2007.}
+
+\bibitem[Redmine 2020]{Remine}
+\abntrefinfo{Redmine}{REDMINE}{2020}
+{REDMINE. \emph{\textbf{Redmine}}. 2020.
+Acessado em: 30/01/2020.
+Dispon{\'\i}vel em: \url{https://www.redmine.org/}.}
+
+\bibitem[Scrum 2020]{Scrum}
+\abntrefinfo{Scrum}{SCRUM}{2020}
+{SCRUM. \emph{\textbf{Scrum guides}}. 2020.
+Acessado em: 30/01/2020.
+Dispon{\'\i}vel em: \url{https://www.scrumguides.org/index.html}.}
+
+\bibitem[Vacanti Abril de 2018]{Kanban}
+\abntrefinfo{Vacanti}{VACANTI}{Abril de 2018}
+{VACANTI, D. e~mantido pela Scrum.org e~por D. \emph{\textbf{O Guia do Kanban
+  para Times Scrum em Português}}. Abril de 2018.
+Acessado em: 30/01/2020.
+Dispon{\'\i}vel em:
+  \url{http://andrelmgomes.com.br/artigosedocumentos/Andr\%C3\%A9\%20Gomes\%20-\%20Guia\%20Kanban\%20para\%20Times\%20Scrum\%202018.pdf}.}
+
+\bibitem[Zope 2020]{ZopeF}
+\abntrefinfo{Zope}{ZOPE}{2020}
+{ZOPE. \emph{\textbf{Welcome to Zope}}. 2020.
+Acessado em: 30/01/2020.
+Dispon{\'\i}vel em: \url{https://www.zope.org}.}
+
+\end{thebibliography}
