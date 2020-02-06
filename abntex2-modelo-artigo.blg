@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2019)
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: abntex2-modelo-artigo.aux
 A level-1 auxiliary file: introducao.aux
@@ -19,20 +19,19 @@ I was expecting a `,' or a `}'---line 79 of file sbc-template.bib
  :  edition = 1
  :             a
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Decreto:4.718"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Warning--campo year vazio ou faltando em ITIL
 +---------------------------------------------------------+
-| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
 You've used 9 entries,
             6714 wiz_defined-function locations,
-            1246 strings with 10408 characters,
+            1244 strings with 10382 characters,
 and the built_in function-call counts, 11555 in all, are:
 = -- 1470
 > -- 122
